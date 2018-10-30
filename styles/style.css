@@ -630,12 +630,16 @@ button:hover {
 
     .footerNav li {
         display: inline-block;
-        padding: 10px 10px;
+        padding: 0 5px;
+    }
+
+    .footerNav ul {
+        padding-bottom: 50px;
     }
 
     .footerNav a {
         border-left: 1px solid white;
-        padding-left: 20px;
+        padding-left: 10px;
     }
 
     .footerNav li:nth-child(1) a {
